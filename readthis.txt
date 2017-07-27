@@ -1,0 +1,10 @@
+for scrapping headline form top nepali online news sites
+
+it works for:
+ekantipur.com
+recentnepal.com
+bigulnews.com
+lightnepal.news
+ratopati.com
+
+NOte: it takes ip too
